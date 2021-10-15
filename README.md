@@ -8,7 +8,7 @@
 
 - :telephone_receiver: [![Call me via QQ](https://img.shields.io/static/v1?label=QQ&message=1473584690&color=blue&style=flat-square)](https://wpa.qq.com/msgrd?v=3&uin=1473584690)
 
-- :email: [![Send me Email](https://img.shields.io/static/v1?label=email&message=diantaodeng@163.com&color=blue&style=flat-square)](mailto:diantaodeng@163.com)
+- :email: [![Send me Email](https://img.shields.io/static/v1?label=email&message=kaguratart@163.com&color=blue&style=flat-square)](mailto:kaguratart@163.com)
 
 
 
