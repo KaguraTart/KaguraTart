@@ -2,7 +2,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KaguraTart&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 - :hammer_and_pick: C++ / Python
 
-- :keyboard:[MtF Wiki](https://github.com/mtf-wiki/MtF-Wiki) Editor
+- :keyboard: [SUMO 中文文档](https://github.com/KaguraTart/SUMO-ch-doc) Editor / [MtF Wiki](https://github.com/mtf-wiki/MtF-Wiki) Editor
 
 - :computer: Lenovo LEGION Y7000 GTX1650Ti 2020
 
