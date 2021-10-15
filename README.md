@@ -1,11 +1,16 @@
 ### Hi! Here is KaguraTart.
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KaguraTart&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 - :hammer_and_pick: C++ / Python
+
 - :keyboard:[MtF Wiki](https://github.com/mtf-wiki/MtF-Wiki) Editor
+
 - :computer: Lenovo LEGION Y7000 GTX1650Ti 2020
+
 - :telephone_receiver: [![Call me via QQ](https://img.shields.io/static/v1?label=QQ&message=1473584690&color=blue&style=flat-square)](https://wpa.qq.com/msgrd?v=3&uin=1473584690)
+
 - :email: [![Send me Email](https://img.shields.io/static/v1?label=email&message=diantaodeng@163.com&color=blue&style=flat-square)](mailto:diantaodeng@163.com)
-- :memo: My Blog:
+
+
 
 
 <!--
