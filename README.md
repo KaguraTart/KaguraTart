@@ -11,6 +11,7 @@
 
 - :email: [![Send me Email](https://img.shields.io/static/v1?label=email&message=kaguratart@163.com&color=blue&style=flat-square)](mailto:kaguratart@163.com)
 
+<img src="https://github-readme-stats.vercel.app/api?username=KaguraTart&count_private=true&show_icons=true" alt="KaguraTart's GitHub stats" height="190px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaguraTart&layout=compact&langs_count=8" alt="Top Languages" height="190px" />
 
 
 
