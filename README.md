@@ -1,5 +1,5 @@
 ### Hi! Here is KaguraTart.
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=KaguraTart&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"  alt="KaguraTart's GitHub stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=KaguraTart&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"  alt="KaguraTart's GitHub stats" height="190px" />
 
 - :hammer_and_pick: C++ / Python
 
