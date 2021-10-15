@@ -1,5 +1,5 @@
 ### Hi! Here is KaguraTart.
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=KaguraTart&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=KaguraTart&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" alt="KaguraTart's GitHub stats" />
 
 - :hammer_and_pick: C++ / Python
 
@@ -11,13 +11,12 @@
 
 - :email: [![Send me Email](https://img.shields.io/static/v1?label=email&message=kaguratart@163.com&color=blue&style=flat-square)](mailto:kaguratart@163.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=KaguraTart&count_private=true&show_icons=true" alt="KaguraTart's GitHub stats" height="190px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaguraTart&layout=compact&langs_count=8" alt="Top Languages" height="190px" />
-
 
 
 <!--
 **KaguraTart/KaguraTart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src="https://github-readme-stats.vercel.app/api?username=KaguraTart&count_private=true&show_icons=true" alt="KaguraTart's GitHub stats" height="190px" /> 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
