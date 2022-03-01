@@ -3,7 +3,7 @@
 
 - :hammer_and_pick: C/C++ / Python
 
-- :keyboard: [SUMO 中文文档](https://github.com/KaguraTart/SUMO-ch-doc) Editor / [MtF Wiki](https://github.com/mtf-wiki/MtF-Wiki) Editor
+- :keyboard: [SUMO 中文文档](https://github.com/KaguraTart/SUMO-ch-doc) Editor 
 
 - :computer: Lenovo LEGION Y7000 GTX1650Ti 2020
 
