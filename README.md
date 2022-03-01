@@ -1,7 +1,7 @@
 ### Hi! Here is KaguraTart.
 <img  src="https://github-readme-stats.vercel.app/api?username=KaguraTart&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff"  alt="KaguraTart's GitHub stats" align="right" />
 
-- :hammer_and_pick: C++ / Python
+- :hammer_and_pick: C/C++ / Python
 
 - :keyboard: [SUMO 中文文档](https://github.com/KaguraTart/SUMO-ch-doc) Editor / [MtF Wiki](https://github.com/mtf-wiki/MtF-Wiki) Editor
 
