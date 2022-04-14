@@ -7,7 +7,6 @@
 
 - :computer: Lenovo LEGION Y7000 GTX1650Ti 2020
 
-- :telephone_receiver: [![Call me via QQ](https://img.shields.io/static/v1?label=QQ&message=1473584690&color=blue&style=flat-square)](https://wpa.qq.com/msgrd?v=3&uin=1473584690)
 
 - :email: [![Send me Email](https://img.shields.io/static/v1?label=email&message=kaguratart@163.com&color=blue&style=flat-square)](mailto:kaguratart@163.com)
 
