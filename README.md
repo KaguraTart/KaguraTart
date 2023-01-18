@@ -13,7 +13,7 @@
 
 - :email: [![Send me Email](https://img.shields.io/static/v1?label=email&message=kaguratart@163.com&color=blue&style=flat-square)](mailto:kaguratart@163.com)
 
-[![KaguraTart's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaguraTart)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
+[![KaguraTart's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaguraTart)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&bg_color=DEG,#00BFFF,#FFFFFF,#FFC0CB)
 
 <!--
 **KaguraTart/KaguraTart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
