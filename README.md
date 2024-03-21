@@ -1,9 +1,5 @@
 ### Hi! Here is KaguraTart. 是蛋挞！
 
-
-
-- 👯 pronoun: she/her
-
 - :hammer_and_pick: C/C++ / Python
 
 - :keyboard: [SUMO 中文文档](https://github.com/KaguraTart/SUMO-ch-doc) Editor 
