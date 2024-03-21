@@ -4,7 +4,7 @@
 
 
 
-- :email: [![Send me Email](https://img.shields.io/static/v1?label=email&message=kaguratart@163.com&color=blue&style=flat-square)](mailto:kaguratart@gmail.com)
+- :email: [![Send me Email](https://img.shields.io/static/v1?label=email&message=kaguratart@gmail.com&color=blue&style=flat-square)](mailto:kaguratart@gmail.com)
 
 [![KaguraTart's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaguraTart)](https://github.com/anuraghazra/github-readme-stats)
 
