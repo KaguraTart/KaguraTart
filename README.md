@@ -2,9 +2,6 @@
 
 - :hammer_and_pick: C/C++ / Python
 
-- :keyboard: [SUMO 中文文档](https://github.com/KaguraTart/SUMO-ch-doc) Editor 
-
-- :computer: Lenovo LEGION Y7000 GTX1650Ti 2020
 
 
 - :email: [![Send me Email](https://img.shields.io/static/v1?label=email&message=kaguratart@163.com&color=blue&style=flat-square)](mailto:kaguratart@163.com)
