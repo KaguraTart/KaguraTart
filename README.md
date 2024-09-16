@@ -1,5 +1,7 @@
 ### Hi! Here is KaguraTart. 是蛋挞！
 
+- 👯 pronoun:she/her
+
 - :hammer_and_pick: C/C++ / Python
 
 
