@@ -16,7 +16,8 @@ If my project can give you some help or motivation, QR-code (only Wechat & Alipa
 
 如果代码内容对您有一点点启发，欢迎赞赏并激励我做出更好的内容！~
 
-![](payTart.png)
+<img src="payTart.png" width="200">
+
 
 <!--
 **KaguraTart/KaguraTart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
