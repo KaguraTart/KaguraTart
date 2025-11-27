@@ -12,9 +12,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaguraTart&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-If my project can give you some help or motivation, QR-code (only Wechat & Alipay) could be utilized for donating and pushing me keep going. Thanks a lot.如果代码内容对您有一点点启发，欢迎赞赏并激励我做出更好的内容！~
+If my project can give you some help or motivation, QR-code (only Wechat & Alipay) could be utilized for donating and pushing me keep going. Thanks a lot.
 
-[!](payTart.png)
+如果代码内容对您有一点点启发，欢迎赞赏并激励我做出更好的内容！~
+
+![](payTart.png)
 
 <!--
 **KaguraTart/KaguraTart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
