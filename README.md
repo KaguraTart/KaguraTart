@@ -1,6 +1,6 @@
 ### Hi! Here is KaguraTart. 是蛋挞！
 
-- 👯 pronoun:she/her
+- 🔭 Working/Study:Autonomous Driving, Traffic simulation;
 
 - :hammer_and_pick: C/C++ / Python
 
