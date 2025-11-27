@@ -1,4 +1,4 @@
-### Hi! Here is KaguraTart. 是蛋挞！
+### Hi! Here is KaguraTart, a graduate student focusing on transportation. 是蛋挞！
 
 - 🔭 Working/Study:Autonomous Driving, Traffic simulation;
 
