@@ -8,15 +8,18 @@
 
 - :email: [![Send me Email](https://img.shields.io/static/v1?label=email&message=kaguratart@gmail.com&color=blue&style=flat-square)](mailto:kaguratart@gmail.com)
 
-[![KaguraTart's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaguraTart)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaguraTart&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 If my project can give you some help or motivation, QR-code (only Wechat & Alipay) could be utilized for donating and pushing me keep going. Thanks a lot.
 
 如果代码内容对您有一点点启发，欢迎赞赏并激励我做出更好的内容！~
+<p align="center">
+<img src="payTart.png" width="200" >
+</p>
 
-<img src="payTart.png" width="200">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=KaguraTart" width="400" align="middle">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaguraTart&layout=compact" width="400" align="middle">
+</p>
 
 
 <!--
