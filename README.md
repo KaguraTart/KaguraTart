@@ -11,12 +11,6 @@ I'm a grad student focusing on Autonomous Driving & transportation, passionate a
 - :email: [![Send me Email](https://img.shields.io/static/v1?label=email&message=kaguratart@gmail.com&color=blue&style=flat-square)](mailto:kaguratart@gmail.com)
 
 
-If my project can give you some help or motivation, QR-code (only Wechat & Alipay) could be utilized for donating and pushing me keep going. Thanks a lot.
-
-如果代码内容对您有一点点启发，欢迎赞赏并激励我做出更好的内容！~
-<p align="center">
-<img src="payTart.png" width="200" >
-</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=KaguraTart" width="400" align="middle">
