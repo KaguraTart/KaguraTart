@@ -12,11 +12,7 @@ I'm a grad student focusing on Autonomous Driving & transportation, passionate a
 
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KaguraTart" width="400" align="middle">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaguraTart&layout=compact" width="400" align="middle">
-</p>
-
+[![Your GitHub stats](https://github-stats-extended.vercel.app/api?username=KaguraTart)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **KaguraTart/KaguraTart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
