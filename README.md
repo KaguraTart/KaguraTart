@@ -1,6 +1,6 @@
 Hi! Here is Deng Diantao (邓典涛), also known as **Kagura Tart**. **是蛋挞！**
 
-I'm a grad student focusing on AI for transportation, passionate about creating more comfortable mobility experiences and more intuitive coding tools.
+I'm a Phd candidate student focusing on AI for transportation, passionate about creating more comfortable mobility experiences and more intuitive coding tools.
 
 - 🔭 Working/Study:Autonomous Driving, Traffic simulation;
 
