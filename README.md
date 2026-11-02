@@ -5,6 +5,8 @@ I'm a Phd candidate student focusing on AI for transportation, passionate about 
 - 🔭 Working/Study:Autonomous Driving, Traffic simulation;
 
 - :hammer_and_pick: C/C++ / Python
+  
+- Contributor for [Mesa](https://github.com/mesa/mesa)
 
 
 
